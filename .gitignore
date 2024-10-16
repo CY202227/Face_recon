@@ -1,0 +1,9 @@
+.idea/
+log/
+dataset/*
+temp/
+!dataset/lfw_test.zip
+!dataset/test.jpg
+models/*
+!models/infer
+!models/mtcnn
